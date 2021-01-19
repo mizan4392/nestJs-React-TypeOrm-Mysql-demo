@@ -13,6 +13,6 @@ Clone the repository `git clone https://github.com/mizan4392/nestJs-React-TypeOr
 3. run `npm run start` to start the project locally (project will run at port 4000)<br>
 
 ## db configuration
-Create a db  name `friends`.You can change it from server/config/typeorm.config.ts
+Create a db  name `friends`.You can change it from `server/config/typeorm.config.ts`
 watch the config file for more info
 
